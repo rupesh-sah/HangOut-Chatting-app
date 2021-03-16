@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042307647003",
+    "project_id": "xxxx-416be",
+    "storage_bucket": "xxxx-416be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042307647003:android:8a9bbab09444e74d011abe",
+        "android_client_info": {
+          "package_name": "com.rupesh.hangout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042307647003-tqi462hk2ehh4tl1n7hiulbvlhh8gl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwSqkDccAZreC59JPaM4eBCBL9YF_L6dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042307647003-tqi462hk2ehh4tl1n7hiulbvlhh8gl7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
